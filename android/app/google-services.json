@@ -8,17 +8,17 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:99362991659:android:0a83a9cb39c9c621d8846e",
+        "mobilesdk_app_id": "1:99362991659:android:8c0219e73d885328d8846e",
         "android_client_info": {
-          "package_name": "carlosbrunofreitassardinha.exemplo.firebaseandroid"
+          "package_name": "carlosbrunofreitassardinha.exemplo.firebaseinapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "99362991659-l0tgbi2p5k1j7j9idkcr4nv4so7urtr7.apps.googleusercontent.com",
+          "client_id": "99362991659-l44sbta4h87hkth25legavh8gudng11k.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "carlosbrunofreitassardinha.exemplo.firebaseandroid",
+            "package_name": "carlosbrunofreitassardinha.exemplo.firebaseinapp",
             "certificate_hash": "080ca1c471f3ff2ef530aaf546d963c4e2d10ef2"
           }
         },

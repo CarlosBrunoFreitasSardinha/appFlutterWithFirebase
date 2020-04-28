@@ -1,4 +1,4 @@
-# firebaseandroid
+# firebaseinapp
 
 A new Flutter application.
 
