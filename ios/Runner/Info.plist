@@ -11,7 +11,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>firebaseinapp</string>
+	<string>bibliotecafirebase</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -41,9 +41,5 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Necessário permissão para acessar a galeria de fotos</string>
-	<key>NSCameraUsageDescription</key>
-	<string>Necessário permissão para acessar a câmera</string>
 </dict>
 </plist>

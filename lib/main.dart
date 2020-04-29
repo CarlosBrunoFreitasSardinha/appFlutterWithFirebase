@@ -1,5 +1,5 @@
-import 'package:firebaseinapp/FuncoesbasicasFirebaseUploadImages.dart';
 import 'package:flutter/material.dart';
+import 'FuncoesbasicasFirebaseUploadImages.dart';
 
 void main() {
 //  WidgetsFlutterBinding.ensureInitialized();
@@ -10,4 +10,3 @@ void main() {
     home: UploadImagesFirebase(),
   ));
 }
-
